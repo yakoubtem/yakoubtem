@@ -125,13 +125,3 @@ Learning and building mobile applications using:
 
 ---
 
-# ⚡ Fun Fact
-
-```javascript
-while(alive) {
-   eat();
-   sleep();
-   code();
-   repeat();
-}
-```
