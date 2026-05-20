@@ -1,6 +1,23 @@
-# YakoubTemiene/README.md
+# Temiene Yakoub
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Laravel+%7C+React+%7C+Next.js;Building+Modern+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Laravel+%7C+React+%7C+Next.js;Building+Modern+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/your-twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
 ---
 
@@ -105,15 +122,7 @@ Learning and building mobile applications using:
 
 <p align="left">
   <a href="https://linkedin.com">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  <a href="https://facebook.com">
-    <img src="https://img.icons8.com/color/48/facebook-new.png" width="48" />
-  </a>
-
-  <a href="https://instagram.com">
-    <img src="https://img.icons8.com/color/48/instagram-new.png" width="48" />
+    <img src="https://www.linkedin.com/in/yakoub-temiene-a05744336/" />
   </a>
 
   <a href="mailto:ytemiene@gmail.com">
@@ -143,9 +152,3 @@ while(alive) {
    repeat();
 }
 ```
-
----
-
-<p align="center">
-  <i>"Code is the bridge between imagination and reality."</i>
-</p>
