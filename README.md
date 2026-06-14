@@ -121,7 +121,7 @@ Learning and building mobile applications using:
 * Become expert in Next.js & React ecosystem
 * Learn AI automation with n8n
 * Contribute to open source
-* Build scalable SaaS products
+* Build scalable SaaS products.
 
 ---
 
