@@ -1,30 +1,39 @@
-# Temiene Yakoub
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Laravel+%7C+React+%7C+Next.js;Building+Modern+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=200&section=header&text=Hi%20there,%20I'm%20Yakoub!%20👋&fontSize=50&fontAlignY=35&desc=Full-Stack%20Web%20Developer&descAlignY=60&descSize=20&animation=fadeIn" alt="Header" />
+  
+  <br />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Applications;Laravel+%7C+React+%7C+Next.js;Always+Learning+New+Technologies" alt="Typing SVG" />
+  
+  <br />
+
+  <p align="center">
+    <a href="mailto:ytemiene@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/yakoub-temiene-a05744336/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://yakoubtemiene.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" /></a>
+  </p>
 </div>
 
+<br />
+
+## 👨‍💻 About Me
+
 <div align="center">
-  <a href="mailto:ytemiene@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://github.com/yakoubtem">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yakoubtem&show_icons=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=3B82F6&text_color=c9d1d9&icon_color=3B82F6" alt="GitHub Stats" />
   </a>
-  <a href="https://www.linkedin.com/in/yakoub-temiene-a05744336/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://yakoubtemiene.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
+  <a href="https://github.com/yakoubtem">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakoubtem&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=3B82F6&text_color=c9d1d9" alt="Top Languages" />
   </a>
 </div>
 
----
-
-# 👨‍💻 About Me
+<br />
 
 ```javascript
 const developer = {
   name: "Yakoub Temiene",
   role: "Full-Stack Web Developer",
-  experience: "2+ year",
+  experience: "2+ years",
   location: "Algeria 🇩🇿",
   languages: ["Arabic", "French", "English (B1)"],
   stack: ["Laravel", "React", "Next.js", "PHP", "JavaScript"],
@@ -34,94 +43,83 @@ const developer = {
     "Modern UI/UX",
     "Software Engineering"
   ],
-  currently: "Building scalable web applications & learning advanced Laravel and Next.js",
+  currently: "Building scalable web apps & learning advanced Laravel/Next.js",
   education: "Computer Science Graduate",
   available: true // open to freelance & collaborations
 };
 ```
 
----
+<br />
 
-# 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-## 🏠 Mona Real Estate Agencies
-
-A complete digital real estate platform with:
-
-* Authentication system
-* Agency & client dashboards
-* Property management
-* Responsive modern UI
-* Laravel backend
-
-## 💳 Invoice SaaS App
-
-Modern billing platform built with:
-
-* Next.js
-* Laravel API
-* Authentication
-* Invoice management
-* Client management
-
-## 📱 Mobile Apps
-
-Learning and building mobile applications using:
-
-* React Native
-* Expo
-
----
-
-# 🛠️ Tech Stack
-
-## 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
-</p>
-
-## ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
-</p>
-
-## 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-## 🤖 Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase" />
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/yakoub-temiene-a05744336/">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="48" alt="LinkedIn" />
+<div align="center">
+  
+  ### 🎨 Frontend
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&perline=6" alt="Frontend Skills" />
   </a>
 
-  <a href="mailto:ytemiene@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="48" />
+  ### ⚙️ Backend
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express&perline=4" alt="Backend Skills" />
   </a>
-</p>
 
----
+  ### 🗄️ Databases & 🤖 Tools
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman,firebase&perline=7" alt="Database and Tools Skills" />
+  </a>
 
-# 🎯 Current Goals
+</div>
 
-* Master advanced Laravel architecture
-* Become expert in Next.js & React ecosystem
-* Learn AI automation with n8n
-* Contribute to open source
-* Build scalable SaaS products.
+<br />
 
----
+## 🚀 Featured Projects
 
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏠 Mona Real Estate Agencies</h3>
+      <p>A complete digital real estate platform with:</p>
+      <ul>
+        <li>Authentication system</li>
+        <li>Agency & client dashboards</li>
+        <li>Property management</li>
+        <li>Responsive modern UI</li>
+        <li>Laravel backend</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💳 Invoice SaaS App</h3>
+      <p>Modern billing platform built with:</p>
+      <ul>
+        <li>Next.js</li>
+        <li>Laravel API</li>
+        <li>Authentication</li>
+        <li>Invoice & Client management</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <h3>📱 Mobile Apps</h3>
+      <p>Learning and building mobile applications using <b>React Native</b> and <b>Expo</b>.</p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+## 🎯 Current Goals
+
+- 🌱 **Master** advanced Laravel architecture.
+- 🚀 **Become an expert** in Next.js & React ecosystem.
+- 🤖 **Learn** AI automation with n8n.
+- 🤝 **Contribute** to open source projects.
+- 💡 **Build** scalable SaaS products.
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" alt="Footer" />
+</div>
