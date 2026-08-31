@@ -20,12 +20,23 @@
 ## 👨‍💻 About Me
 
 <div align="center">
-  <a href="https://github.com/yakoubtem">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yakoubtem&show_icons=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=3B82F6&text_color=c9d1d9&icon_color=3B82F6" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/yakoubtem">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakoubtem&layout=compact&show_icons=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=3B82F6&text_color=c9d1d9&icon_color=3B82F6" alt="Top Languages" />
-  </a>
+  <h3>💻 Tech Stack</h3>
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  </p>
+  
+  <h3>📊 Top Languages</h3>
+  <p>
+    <img src="https://img.shields.io/badge/PHP-35%25-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/JavaScript-30%25-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Blade-20%25-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Blade" />
+    <img src="https://img.shields.io/badge/Other-15%25-gray?style=flat" alt="Other" />
+  </p>
 </div>
 
 <br />
