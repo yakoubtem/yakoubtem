@@ -101,12 +101,6 @@ const developer = {
       </ul>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
-      <h3>📱 Mobile Apps</h3>
-      <p>Learning and building mobile applications using <b>React Native</b> and <b>Expo</b>.</p>
-    </td>
-  </tr>
 </table>
 
 <br />
