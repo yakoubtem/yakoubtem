@@ -86,36 +86,6 @@ const developer = {
 
 <br />
 
-## 🚀 Featured Projects
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏠 Mona Real Estate Agencies</h3>
-      <p>A complete digital real estate platform with:</p>
-      <ul>
-        <li>Authentication system</li>
-        <li>Agency & client dashboards</li>
-        <li>Property management</li>
-        <li>Responsive modern UI</li>
-        <li>Laravel backend</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💳 Invoice SaaS App</h3>
-      <p>Modern billing platform built with:</p>
-      <ul>
-        <li>Next.js</li>
-        <li>Laravel API</li>
-        <li>Authentication</li>
-        <li>Invoice & Client management</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br />
-
 ## 🎯 Current Goals
 
 - 🌱 **Master** advanced Laravel architecture.
